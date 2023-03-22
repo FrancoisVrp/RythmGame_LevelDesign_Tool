@@ -8,4 +8,4 @@ My research result to this 4 scripts that I will certainly update as I learn new
 
 If you want to see how it works, you watch my 2023 DemoReel at this time code: https://youtu.be/XLdVM_z86U8?t=28
 
-Don't hesitate to make returns on my code, I have start coding in October 2022, so I might have a lot of mistakes or things to learn to have a cleaner and more efficient code.
+Don't hesitate to make returns on my code, I try to code since October 2022, so I might(obviously) have a lot of mistakes or things to learn to have a cleaner and more efficient code.
