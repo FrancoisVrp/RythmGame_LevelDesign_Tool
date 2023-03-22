@@ -1,4 +1,4 @@
-This repository contain 4 scripts that I used to make a RythmGame LevelDesign Tool.
+This repository contains 4 scripts that I used to make a RythmGame LevelDesign Tool.
 
 In order to make a GeometryDash like videogame, we had to create 3 levels with a precise position given to the platform.
 Indeed, the player to jump over/on platforms in rythm. So the position of platforms depends on player speed, player jump height and bpm/tempo. 
